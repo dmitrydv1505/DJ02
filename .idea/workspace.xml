@@ -4,37 +4,74 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="529df3a4-300d-4b72-82db-5e3add32af11" name="Changes" comment="" />
+    <list default="true" id="529df3a4-300d-4b72-82db-5e3add32af11" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/myproject/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/templates/myapp/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/templates/myapp/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/templates/myapp/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/templates/myapp/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/templates/myapp/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/templates/myapp/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/templates/myapp/services.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myproject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myproject/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myproject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myproject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myproject/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dmitrydv1505"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dmitrydv1505&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dmitrydv1505/DJ02.git",
-    "accountId": "be4fff1d-7135-4075-ac4d-ef7b3758812f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dmitrydv1505/DJ02.git&quot;,
+    &quot;accountId&quot;: &quot;be4fff1d-7135-4075-ac4d-ef7b3758812f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2mBvBSn2nwpuftrClOTnstkefFW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -56,5 +93,8 @@
       <updated>1726562648484</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
